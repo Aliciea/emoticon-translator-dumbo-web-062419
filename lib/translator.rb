@@ -2,8 +2,9 @@
 
 def load_library
   # code goes here
-  yml.laod_file
+  
 end
+end 
 
 def get_japanese_emoticon
   # code goes here
